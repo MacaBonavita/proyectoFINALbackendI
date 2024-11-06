@@ -1,0 +1,23 @@
+Express Router
+-Archivos Estaticos
+--Prefijo Virtual
+--Path absoluto
+-Interacción
+
+POSTMAN
+{{$}} : Agrgar parametro $random de utilería (Datos en automatico)
+
+html->form : Programar acción de servidor
+
+path : require("path") -- para resolver rutas en el proyecto
+__dirname : Sirve para obtener el nombre del directorio
+join : path.join("ruta") -- Ejemplo: __dirname + "ruta"
+
+-- Para enviar un archivo como respuesta a una ruta, se utiliza "sendFile" con app.Get
+
+sendFile
+--> req
+--> res : respuesta
+
+Express Multer
+--> Sirve para 

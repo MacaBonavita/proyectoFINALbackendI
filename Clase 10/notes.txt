@@ -1,0 +1,27 @@
+Web sockets.
+-Comparación entre HTTP y WebSocket
+-Def: Protocolo de comunicación basado en TCP, a cada "endpoint" se le conoce como "socket"
+-Establece una comunicación constante (HTTP solo es bajo petición y respuesta)
+
+¿Como se realiza la comunicación?
+-HTTP Long Polling
+-Procedimiento "Handshake"
+
+Ventajas:
+-El cliente no tiene que estar actualizando la página constantemente
+-
+
+
+Conceptos:
+-layout : 
+-
+
+Instalación de:
+-express
+-express-handlebars
+-sockets io
+
+Socket:
+-socket.on : evento del socket actual
+-socket.emit : evento para socket individual
+-socket.broadcast.emit : Este evento lo veran todos los sockets, menos el actual

@@ -1,0 +1,28 @@
+Glosario:
+-HTTP : Hypertext transfer protocol
+-Protocolo: estandares y normas que deben de seguirse para lograr una correcta comunicación
+-Servidor
+-Módulo HTTP
+-Express
+-Endpoint
+-Método GET
+-Objeto req
+
+Arquitectura Cliente-Servidor sin estado
+--> 
+Cacheable
+Operciones comunes
+
+Códigos de Estado: 
+Def: cuando realizamos una solicitud al servidor mediante el protocolo HTTP debe respondernos no solo con información, sino con un estado del proceso
+
+1xx: Informativo
+2xx: Ok
+3xx: Redirección
+4xx: Error de Cliente
+5xx: Error de Servidor
+
+Rest: Representation State Transfer.
+Def: Permite definir la estructura
+
+API: Application Programming Interface

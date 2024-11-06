@@ -1,0 +1,5 @@
+ECMAScript
+
+Diferencia entre find y filter
+-find: solo el primer elemento
+-filter: lista de coincidencias

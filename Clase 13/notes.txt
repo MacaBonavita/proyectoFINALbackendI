@@ -1,0 +1,27 @@
+Comandos MongoDB
+-db.entidad.countDocuments()
+
+Operadores para filtros
+-$and : 
+-$or : 
+-$lt : Coincide con los valores menores al especificado
+
+
+-$exists : Existencia en un valor
+-$in : documentos especificados en un arreglo
+-$nin : 
+
+Busqueda Avanzada
+-$db.coll : 
+
+
+Ordenación
+-sort : ordenar
+-skip : saltar valores
+-limit : cantidad
+
+
+-- Comandos Compuestos
+db.estudiantes.find({},{_id: 0, nombre: 1, apellido: 1, curso: 1, edad:1}).sort({edad:1}).skip(2).limit(3)
+
+

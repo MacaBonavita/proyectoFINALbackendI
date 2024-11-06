@@ -1,0 +1,5 @@
+ * writeFileSync : Escritura de un archivo de manera sincrona
+ * readFileSync : Lectura de un archivo de manera sincrona
+ * appendFileSync : Actualizar un archivo de manera sincrona
+ * unlinkFileSync : Elimina un archivo de manera sincrona
+ * mkdirSync : Crea carpetas de manera sincrona

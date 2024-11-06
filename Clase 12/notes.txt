@@ -1,0 +1,24 @@
+¿Porque es útil una base de datos?
+R1=Almacenamiento más seguro
+R2=Segmentación de datos
+-- separar clientes potenciales
+
+
+SQL - Relacionales
+-Tablas
+--Filas (registros)
+--Columnas (campos)
+
+
+
+No SQL
+-Colecciones (No tablas)
+-Documentos (No registros)
+
+MongoDB
+-Comandos: 
+-- use coderDB : "Use" para seleccionar la BD en este caso.
+-- db.createCollection("entidad") : Crear colección de datos, asignando un nombre, en este caso la palabra "entidad"
+-- db."entidad".insertOne({ }) : Crea un registro -- Sin las comillas ""
+-- db.entidad.find() : Para buscar los Documentos
+-- db.entidad.insertMany() : Se inserta un array [ {},{} ] y adentro cada elemento

@@ -1,0 +1,3 @@
+Para las entregas finales:
+-Mantener los proyectos simples (sin tanta carpeta)
+

@@ -1,0 +1,19 @@
+Motor de Plantillas:
+
+
+
+Diferencia entre:
+-Motor de Plantillas
+-Framework
+
+Conceptos:
+-Router : Permite agrupar endpoints
+-Middleware : funciones en medio de la ruta y el callback (req, res)
+-API : Contrato
+-Multer : Middleware desarrollado para poder realizar carga de archivos dentro de la peticiones
+-REST : 
+
+Motor de Plantillas
+Handlebars : nivel de plantilla pensado para agregar un nivel medio de dinamismo en una página web
+--> Utiliza --> {{variable}}
+Nota: No esta pensado para elementos de cambios constantes

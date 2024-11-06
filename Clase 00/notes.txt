@@ -1,0 +1,11 @@
+
+
+
+npm start -- iniciar package
+
+Backend
+--> endpoint (rutas)
+
+
+Trabajo en casa:
+-Con un fetch hay que establecer la conexión entre frontend y backend.

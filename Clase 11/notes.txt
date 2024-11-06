@@ -1,0 +1,10 @@
+Glosario:
+-Websocket : protocolo de comunicación que permite una sesión activa entre un cliente y servidor.
+-Hanshake : Acuerdo entre cliente y servidor que permite establecer una conexión abierta entre ambos puntos.
+-socket.on : Listener de eventos que involucren a los sockets.
+--> El listener debe de escuchar un evento de nombre identico al emitido por el otro punto.
+-socket.emit : Emisor de eventos tanto para cliente como para servidor.
+--> El emisor debe emitir un evento de nombre identico al que se esta escuchando del otro lado.
+-socketServer.emit : Emisor de eventos del servidor para todos los clientes
+-socket.broadcast.emit : Emisor de eventos del servidor para todos los clientes a excepción del socket raiz del cual se llama el evento.
+

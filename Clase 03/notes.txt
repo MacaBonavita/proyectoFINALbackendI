@@ -1,0 +1,2 @@
+callback: es para pasar una función como parametro de otra
+callback hell: funciones que llaman otras funciones que a su vez, llaman a otras funciones

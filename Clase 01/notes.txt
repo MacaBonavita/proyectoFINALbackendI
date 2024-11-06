@@ -1,0 +1,26 @@
+Backend Group: https://chat.whatsapp.com/DpF6knfwErp1eSxlyiEgOj
+
+Nota: Se utilizará Node.js para ejecutar JavaScript JS
+/**** Comandos ****/
+-node app.js : Para ejecutar un script
+-npm init -y : Nos crea un package de tipo JSON
+-npm start : ejecuta el package
+-node --watch app.js: Ejecución en espera de cambios (detecta cambios en el script por ejecutar)
+
+Nota: Tener cuidado con el "auto-save" porque si se guarda un error mientras se ejecuta, se detendra la aplicación
+
+-npm install : Instalar dependencia, librería, etc
+
+/**** Comandos Teclas ****/
+-Alt+Arrow(Up or Down) : Para invertir las lineas
+
+Cybergrafia: 
+
+/**** Comandos ****/
+-git init : Inicializar un repositorio
+-git status : Estatus de archivos
+-git add . : Para añadir todo al repositorio
+-npm i : Instala todas las dependencias
+
+
+

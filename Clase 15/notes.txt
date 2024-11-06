@@ -1,0 +1,32 @@
+MongoDB Atlas
+-Automatización : crear, lanzar y escalar aplicaciones en MongoDB
+-Fexibilidad : DBaaS con todo lo necesario para aplicaciones modernas
+-Seguridad : niveles variados de seguridad (disponibles)
+-Escalabilidad : Actividad ininterrumpida con gran Escalabilidad
+-Alta Disponinibilidad : Implementaciones con tolerancia a errores y autoreparación predeterminada
+-Alto Rendimiento : Necesario para cargas de trabajo exigentes
+
+*Ventajas
+**Ejecución
+--> Puesta en marcha en un clúster en segundos
+--> Implementaciones replicadas y sin interrupción
+--> Total escalabilidad : horizontal o vertical sin interrumpir la actividad
+--> Revisiones automáticas y actualizaciones simplificadas
+**Protección y Seguridad
+--> Autenticación y cifrado
+--> Copias de seguridad continuas con recuperación temporal
+--> Supervisión detallada y alertas personalizadas
+
+Credentials:
+User: alastairblackwell
+Pass: 3lLd35UcActsfMLZ
+
+Connection String (With Pass):
+mongodb+srv://alastairblackwell:3lLd35UcActsfMLZ@cluster0.hprwu.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
+Connection String (Without Pass):
+mongodb+srv://alastairblackwell:<password>@cluster0.hprwu.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
+Mongoose
+-ODM : Object Document Mapping
+Def: Nos permitira 
